@@ -1,2 +1,2 @@
-# IAPP
-Investigación abierta en políticas públicas
+# RIAPP
+Repositorio de investigación abierta en políticas públicas
